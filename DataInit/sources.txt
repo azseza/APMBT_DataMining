@@ -1,0 +1,4 @@
+"SFBT" : https://www.cmf.tn/?q=indicateurs-d-activit-&field_secteur_value=Secteur+de+l%27industrie&field_soci_t__value=SFBT&field_trimestre_value=All&field_ann_e_indicateurs_tid=All
+"DELICE HOLDING" : "https://www.cmf.tn/?q=indicateurs-d-activit-&field_secteur_value=All&field_soci_t__value=DELICE+HOLDING&field_trimestre_value=All&field_ann_e_indicateurs_tid=All
+"EURO CYCLE" : https://www.cmf.tn/?q=indicateurs-d-activit-&field_secteur_value=All&field_soci_t__value=EURO+CYCLES&field_trimestre_value=All&field_ann_e_indicateurs_tid=All
+
