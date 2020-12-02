@@ -3,6 +3,9 @@ import datetime
 import os 
 import socket
 url = 'http://www.tse.tn/sites/default/files/bulletin/pdf/bull'
+print('creating directory')
+#os.mkdir('bulls')
+os.chdir('bulls')
 for i in range(1000):
     date = datetime.date(2018,1,1)
     date += datetime.timedelta(i)
